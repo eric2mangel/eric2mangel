@@ -21,3 +21,12 @@ Je m'appelle **[Eric](https://github.com/eric2mangel)**, **data scientist freela
   - Rédaction d’un ouvrage : *Maîtrisez la Data Science avec Python* (parution en mars 2025).
 
 ---
+
+### 🛠️ Technos clés
+
+- **Langages :** Python, R, SAS, SQL/NoSQL, VBA, SPSS, HTML/CSS, JavaScript.
+- **Outils et bibliothèques :** Scikit-learn, TensorFlow, PyTorch, Pandas, Matplotlib, Seaborn, Power BI.
+- **Compétences :** Feature engineering, NLP, visualisation de données, systèmes de recommandation, optimisation de processus métier.
+- **Développement web :** Flask, Streamlit, déploiement sur PythonAnywhere.
+
+---

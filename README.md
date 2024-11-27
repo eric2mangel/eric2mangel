@@ -35,7 +35,7 @@ Je m'appelle **[Eric](https://github.com/eric2mangel)**, **data scientist freela
 
 Vous pouvez découvrir mes projets et démonstrations interactives sur mon site Pythonanywhere :
 
-[Visitez mon site PythonAnywhere](https://eric2mangel.pythonanywhere.com/)
+👉 [Visitez mon site PythonAnywhere](https://eric2mangel.pythonanywhere.com/)
 
 Voici une autre application réalisée avec Streamlit qui permet d'analyser les couleurs d'une image et de la recadrer facilement. C'est un outil pratique pour le nom des couleurs et ajuster les dimensions des images de manière interactive.
 

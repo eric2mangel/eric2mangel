@@ -47,4 +47,3 @@ Voici une autre application réalisée avec Streamlit qui permet d'analyser les 
 
 - - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric2mangel)
 
----

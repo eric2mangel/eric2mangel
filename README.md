@@ -31,6 +31,16 @@ Je m'appelle **[Eric](https://github.com/eric2mangel)**, **data scientist freela
 
 ---
 
+### 🌐 Découvrez mes projets en ligne
+
+Vous pouvez découvrir mes projets et démonstrations interactives sur mon site Pythonanywhere :
+
+[Visitez mon site PythonAnywhere](https://eric2mangel.pythonanywhere.com/)
+
+Cela vous permettra d'explorer des exemples de modèles de machine learning, des démonstrations d'analyses de données, et bien plus encore !
+
+---
+
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric2mangel)

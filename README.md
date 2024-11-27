@@ -1,4 +1,6 @@
-### Hi there and welcome to my Github profile👋
+# 👋 Bienvenue sur mon profil GitHub !
+
+Je m'appelle **[Eric](https://github.com/eric2mangel)**, **data scientist freelance et mentor**, passionné par la résolution de problèmes complexes. Mon activité s’articule autour de deux piliers complémentaires : la pédagogie et l’opérationnel. Grâce à la data science, j’explore et réponds à ma curiosité insatiable tout en apportant des solutions concrètes et innovantes.
 
 <!--
 **eric2mangel/eric2mangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Je m'appelle **[Eric](https://github.com/eric2mangel)**, **data scientist freelance et mentor**, passionné par la résolution de problèmes complexes. Mon activité s’articule autour de deux piliers complémentaires : la pédagogie et l’opérationnel. Grâce à la data science, j’explore et réponds à ma curiosité insatiable tout en apportant des solutions concrètes et innovantes.
+Je m'appelle **[Eric](https://github.com/eric2mangel)**, **data scientist freelance, mentor et formateur**, passionné par la résolution de problèmes complexes. Mon activité s’articule autour de deux piliers complémentaires : la pédagogie et l’opérationnel. Grâce à la data science, j’explore et réponds à ma curiosité insatiable tout en apportant des solutions concrètes et innovantes.
 
 ---
 

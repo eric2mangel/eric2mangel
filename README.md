@@ -30,3 +30,9 @@ Je m'appelle **[Eric](https://github.com/eric2mangel)**, **data scientist freela
 - **Développement web :** Flask, Streamlit, déploiement sur PythonAnywhere.
 
 ---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/eric2mangel)
+
+---

@@ -43,6 +43,6 @@ Cela vous permettra d'explorer des exemples de modèles de machine learning, des
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/eric2mangel)
+- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric2mangel)
 
 ---

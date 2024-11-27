@@ -39,7 +39,7 @@ Vous pouvez découvrir mes projets et démonstrations interactives sur mon site 
 
 Voici une autre application réalisée avec Streamlit qui permet d'analyser les couleurs d'une image et de la recadrer facilement. C'est un outil pratique pour le nom des couleurs et ajuster les dimensions des images de manière interactive.
 
-👉 [Testez l'application ici](https://eric2mangel-applis-streamlit-app00-pen5j9.streamlit.app/)
+👉 [Testez l'application Streamlit ici](https://eric2mangel-applis-streamlit-app00-pen5j9.streamlit.app/)
 ---
 
 ## 📫 Contact

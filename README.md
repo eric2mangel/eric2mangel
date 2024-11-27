@@ -6,7 +6,7 @@ Je m'appelle **[Eric](https://github.com/eric2mangel)**, **data scientist freela
 
 ## 🚀 À propos de moi
 
-### 🚀 Expertises
+### 🌟 Expertises
 
 - 📊 **Data Science & Machine Learning** : 
   - Feature engineering, prévisions, segmentation, recommandations, optimisation.
